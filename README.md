@@ -45,5 +45,3 @@ This combination of tools makes the WeatherApp an ideal project for users who wa
 - **Global Weather Tracking:** With support for cities worldwide, the app can be used to track weather conditions in multiple locations, making it suitable for users who travel frequently or have family in different parts of the world.
 
 ---
-
-This detailed introduction provides a solid understanding of the project's purpose, how it works, and why it uses PyQt5 and the OpenWeather API, making it appealing for both users and developers.
